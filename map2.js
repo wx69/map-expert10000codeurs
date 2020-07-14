@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="google-site-verification" content="tLlyY2j57dKwXgtoXCatfuf3A4N55XqrfAq21IvifOQ" />
+    <meta charest="http://map-expert10000codeurs.com/googlecb67bcb2877ea772.html">
     <meta charset="utf-8">
     <title>Custom Map Projections</title>
     <style>
